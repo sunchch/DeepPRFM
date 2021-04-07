@@ -1,2 +1,2 @@
 # Recommendation-System
-The repository stores some relevant implementation codes of the recommendation system
+The DeepPRFM implemented using tensorflow
